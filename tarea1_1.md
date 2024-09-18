@@ -44,7 +44,22 @@
 
     `git commit -m "Ignorar archivos privados"`
 
+11. Crear y añadir el archivo 1.txt:
 
+
+    ` echo. > 1.txt`
+
+    `git add 1.txt`
+
+    `git commit -m "Añadir 1.txt"`
+
+
+12. Crear el tag v0.1:
+
+
+    `git tag v0.1`
+
+    `git push origin v0.1`
 
     ## Información de mis compañeros de clase
 
