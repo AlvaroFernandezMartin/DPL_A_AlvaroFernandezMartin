@@ -43,3 +43,13 @@
 10. Realizar commit de .gitignore:
 
     `git commit -m "Ignorar archivos privados"`
+
+
+
+    ## Información de mis compañeros de clase
+
+| Nombre         | GitHub Username        | Repositorio                      |
+| -------------- | ---------------------- | -------------------------------- |
+| Compañero 1    | username_compañero1    | [Repositorio](https://github.com/username_compañero1/repo) |
+| Compañero 2    | username_compañero2    | [Repositorio](https://github.com/username_compañero2/repo) |
+| Compañero 3    | username_compañero3    | [Repositorio](https://github.com/username_compañero3/repo) |
