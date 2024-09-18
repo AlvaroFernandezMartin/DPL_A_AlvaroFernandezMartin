@@ -1,0 +1,6 @@
+Una vez instalado Xampp , generamsos una contraseña para el usuario root.
+Con esa contraseña vamsos a la carpeta phpmyadmin y al archivo config.inc.php y en el usuario root ponemos la contraseña generada.
+
+Después creamos nuestro propio usuario con una contraseña.
+
+Para finalizar devemos cambiar la forma de loggearse en xamp, en archivo mencionado antes cambiamos el authentication type a http , para que cada vez que iniciemos nos pida loggearnos.
