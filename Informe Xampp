@@ -3,4 +3,6 @@ Con esa contraseña vamsos a la carpeta phpmyadmin y al archivo config.inc.php y
 
 Después creamos nuestro propio usuario con una contraseña.
 
-Para finalizar devemos cambiar la forma de loggearse en xamp, en archivo mencionado antes cambiamos el authentication type a http , para que cada vez que iniciemos nos pida loggearnos.
+Para finalizar devemos cambiar la forma de loggearse en xamp, en archivo mencionado antes cambiamos el authentication type a http ,
+para que cada vez que iniciemos nos pida loggearnos.
+
