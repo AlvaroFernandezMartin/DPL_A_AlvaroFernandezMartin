@@ -18,26 +18,26 @@ MERGE DIRECTO (1 PUNTO)
 
 MERGE CON CONFLICTO (1 PUNTO)
 
-    En la rama master poner Hola  en el fichero 1.txt y hacer commit.
-    Posicionarse en la rama v0.2 y poner Adios en el fichero 1.txt y hacer commit.
-    Posicionarse de nuevo en la rama master y hacer un merge con la rama v0.2
+![conflicto_merge](https://github.com/user-attachments/assets/5209eff3-d9c8-4856-8923-0770b5ba5fdc)
+
 
 LISTADO DE RAMAS (1 PUNTO)
 
-    Listar las ramas con merge y las ramas sin merge.
+![conflicto_merge](https://github.com/user-attachments/assets/6ee88e45-6e26-4684-9725-bbbff288c6e1)
 
 ARREGLAR  CONFLICTO (1 PUNTO)
 
     Arreglar el conflicto anterior y hacer un commit. Explicar como lo has arreglado incluyendo capturas de pantalla.
 
+
 BORRAR RAMA (1 PUNTO)
 
-    Crear un tag v0.2
-    Borrar la rama v0.2
+![eliminar rama crar tag](https://github.com/user-attachments/assets/6047c76f-7f25-4d05-a0b3-8719edd85929)
 
 LISTADO DE CAMBIOS (1 PUNTO)
 
-    Listar los distintos commits con sus ramas y sus tags.
+![listar commits](https://github.com/user-attachments/assets/5208b925-9f3f-41b6-8760-433932f1e0cb)
+
 
 CREAR UNA ORGANIZACIÓN (1 PUNTO)
 
