@@ -9,12 +9,12 @@ AÑADIR  EL FICHERO 2.txt  (1 PUNTO)
 
 CREAR UNA RAMA REMOTA v0.2 (1 PUNTO)
 
-  Subir los![Subir los cambios al repositorio remoto](https://github.com/user-attachments/assets/c0281239-5211-4f05-8535-6241790c5dac)
+ ![Subir los cambios al repositorio remoto](https://github.com/user-attachments/assets/c0281239-5211-4f05-8535-6241790c5dac)
 
 MERGE DIRECTO (1 PUNTO)
 
-    Posicionarse en la rama master.
-    Hacer un merge de la rama v0.2 en la rama master.
+![Fusionar v0 2 con main](https://github.com/user-attachments/assets/39b91e26-d7ea-4ee4-b758-5971a46e1b77)
+
 
 MERGE CON CONFLICTO (1 PUNTO)
 
